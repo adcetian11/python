@@ -1,0 +1,1 @@
+# . write a program in ruby to multiply all no.s in list
